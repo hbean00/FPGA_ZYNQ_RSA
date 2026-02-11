@@ -28,7 +28,6 @@ The design includes a FIFO-based controller, AXI-based communication interfaces,
 
 ## Key Features
 
-- FPGA-based RSA hardware acceleration
 - FIFO-based RTL controller design
 - AMBA AXI interface integration
 - PS–PL communication in Zynq SoC
@@ -43,5 +42,7 @@ The design includes a FIFO-based controller, AXI-based communication interfaces,
 
 ## Spec
 RSA IP used - Trust Hub BASICRSA - T100
+
 FPGA : ARTY Z7
+
 Vivado Xilinx IP : FIFO, BRAM
