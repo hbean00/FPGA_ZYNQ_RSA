@@ -1,7 +1,4 @@
-RSA IP used - Trust Hub BASICRSA - T100
 
-FPGA : ARTY Z7
-Vivado Xilinx IP : FIFO, BRAM
 
 # RSA WRAPPER (FPGA / AXI-based Design)
 
@@ -12,13 +9,13 @@ The design includes a FIFO-based controller, AXI-based communication interfaces,
 
 ## Architecture
 
-### RSA IP Block Diagram
+### RSA IP Timing Diagram
 
 ![RSA IP Block Diagram](image/RSA%20IP%20block%20diagram.png)
 
 ---
 
-### RSA Controller Block Diagram
+### RSA Controller Timing Diagram
 
 ![RSA Controller Block Diagram](image/RSA%20controller%20block%20diagram.png)
 
@@ -44,3 +41,7 @@ The design includes a FIFO-based controller, AXI-based communication interfaces,
 - Verilog RTL Design
 - AMBA AXI Interconnect
 
+## Spec
+RSA IP used - Trust Hub BASICRSA - T100
+FPGA : ARTY Z7
+Vivado Xilinx IP : FIFO, BRAM
