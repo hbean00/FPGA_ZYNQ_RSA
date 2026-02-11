@@ -8,6 +8,8 @@ This project implements an FPGA-based RSA WRAPPER integrated within a Zynq SoC e
 The design includes a FIFO-based controller, AXI-based communication interfaces, and BRAM integration to enable efficient hardware acceleration and system-level interaction between the Processing System (PS) and Programmable Logic (PL).
 
 **This repository contains a high-level overview only.**
+
+
 **The implementation code is private due to IP restrictions.**
 
 
