@@ -41,8 +41,7 @@ The design includes a FIFO-based controller, AXI-based communication interfaces,
 - AMBA AXI Interconnect
 
 ## Spec
-RSA IP used - Trust Hub BASICRSA - T100
 
-FPGA : ARTY Z7
-
-Vivado Xilinx IP : FIFO, BRAM
+- RSA IP used - Trust Hub BASICRSA - T100
+- FPGA : ARTY Z7
+- Vivado Xilinx IP : FIFO, BRAM
