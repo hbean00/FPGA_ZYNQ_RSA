@@ -14,27 +14,20 @@ The design includes a FIFO-based controller, AXI-based communication interfaces,
 
 ### RSA IP Block Diagram
 
-![RSA IP Block Diagram](RSA IP block diagram.png)
-
-The RSA IP core performs cryptographic operations and is connected to system memory and control interfaces via AMBA AXI protocols.
+![RSA IP Block Diagram](image/RSA%20IP%20block%20diagram.png)
 
 ---
 
 ### RSA Controller Block Diagram
 
-![RSA Controller Block Diagram](RSA_controller_block_diagram.png)
-
-A FIFO-based controller manages data flow, buffering, and control signals between the processing system and hardware accelerator.
+![RSA Controller Block Diagram](image/RSA%20controller%20block%20diagram.png)
 
 ---
 
-### WRAP_RSA System Architecture
+### WRAP RSA System Architecture
 
-![WRAP RSA Architecture](WRAP_RSA.drawio.png)
+![WRAP RSA Architecture](image/WRAP_RSA.drawio.png)
 
-System-level integration showing AXI interconnect, BRAM usage, and PS–PL interaction within the Zynq SoC environment.
-
----
 
 ## Key Features
 
